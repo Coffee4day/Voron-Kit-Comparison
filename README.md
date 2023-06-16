@@ -21,7 +21,7 @@ Currently, there is only information available for the 2.4 kit. If you are inter
 | Fans         | LDO                                    | GDSTime                                | Random             | Random           | Random                |                                                              |
 | Wires | Pre-made,PTFE | Pre-made,PTFE | Pre-made,PTFE | Pre-made | Pre-made | |
 | Toolboard    | Hartk styled PCB and Breakout PCB      | Canbus EBB SB2209                      | No                 | Hartk styled PCB | Hartk styled PCB |                                                              |
-| Probe        | Omron + Klicky                         | Tap                                    | PL08N | Omron + Klicky？ | Omron + Klicky？ |                                                              |
+| Probe        | Omron + Klicky                         | Tap                                    | Omron | Omron + Klicky？ | Omron + Klicky？ |                                                              |
 | Hotend | E3D Revo Hotend | Dragon HF, optional others | E3D V6, optional others | E3D V6 | Dragon HF | |
 | Board | Bigtreetech Octopus | Bigtreetech M8P | Bigtreetech Octopus | FYSETC Spider | FYSETC Spider | |
 | Raspberry | - | CB1 | No | No | Orangepi Zero2 | |
