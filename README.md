@@ -14,14 +14,14 @@ Currently, there is only information available for the 2.4 kit. If you are inter
 | Steppers     | LDO Steppers                           | MOONS MS17HD6P4200                     | MOONS MS17HD6P420I | Fysetc OEM | Stepperonline         |                                                              |
 | Linear Rails | Stainless Steel                        | Black, optional Stainless Steel        | Stainless Steel    | Normal           | Normal + Hiwin MGN12H |                                                              |
 | Pulleys      | Gates                                  | Normal, optional Gates                 | Normal             | Normal           | Normal                |                                                              |
-| Belt         | Gates RF                               | Gates RF                               | Gates (RF?)        | Gates (RF?)      | Gates RF              | Formbot and Fysetc mentioned Gates, but not sure it's RF or not |
+| Belt         | Gates RF                               | Gates RF                               | Gates RF           | Gates (RF?)      | Gates RF              | Fysetc mentions Gates, but not sure it's RF or not |
 | Buildplate   | 10mm 5083 Cast Aluminum                | 8mm 5083 Cast Aluminum                 | MIC 6 ?            | MIC 6 ?          | MIC 6 ?               | Formbot, Fysetc, Siboor mentioned MIC 6, But I believe it isn't. |
 | Heater       | Full-size, extra buildplate thermistor | Full-size, extra buildplate thermistor | Normal             | Normal ?         | Normal              | Fysetc has full-size listed in Ali, but not mentioned in BOM |
 | SSR | Omron | Omron | Omron | Omron | Delixi |  |
 | Fans         | LDO                                    | GDSTime                                | Random             | Random           | Random                |                                                              |
 | Wires | Pre-made,PTFE | Pre-made,PTFE | Pre-made,PTFE | Pre-made | Pre-made | |
 | Toolboard    | Hartk styled PCB and Breakout PCB      | Canbus EBB SB2209                      | No                 | Hartk styled PCB | Hartk styled PCB |                                                              |
-| Probe        | Omron + Klicky                         | Tap                                    | PL08N | Omron + Klicky？ | Omron + Klicky？ |                                                              |
+| Probe        | Omron + Klicky                         | Tap                                    | Omron | Omron + Klicky？ | Omron + Klicky？ |                                                              |
 | Hotend | E3D Revo Hotend | Dragon HF, optional others | E3D V6, optional others | E3D V6 | Dragon HF | |
 | Board | Bigtreetech Octopus | Bigtreetech M8P | Bigtreetech Octopus | FYSETC Spider | FYSETC Spider | |
 | Raspberry | - | CB1 | No | No | Orangepi Zero2 | |
