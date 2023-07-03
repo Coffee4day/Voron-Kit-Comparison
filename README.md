@@ -14,7 +14,7 @@ Currently, there is only information available for the 2.4 kit. If you are inter
 | Steppers     | LDO Steppers                           | MOONS MS17HD6P4200                     | MOONS MS17HD6P420I | Fysetc OEM | Stepperonline         |                                                              |
 | Linear Rails | Stainless Steel                        | Black, optional Stainless Steel        | Stainless Steel    | Normal           | Normal + Hiwin MGN12H |                                                              |
 | Pulleys      | Gates                                  | Normal, optional Gates                 | Normal             | Normal           | Normal                |                                                              |
-| Belt         | Gates RF                               | Gates RF                               | Gates (RF?)        | Gates (RF?)      | Gates RF              | Formbot and Fysetc mentioned Gates, but not sure it's RF or not |
+| Belt         | Gates RF                               | Gates RF                               | Gates RF           | Gates (RF?)      | Gates RF              | Fysetc mentions Gates, but not sure it's RF or not |
 | Buildplate   | 10mm 5083 Cast Aluminum                | 8mm 5083 Cast Aluminum                 | MIC 6 ?            | MIC 6 ?          | MIC 6 ?               | Formbot, Fysetc, Siboor mentioned MIC 6, But I believe it isn't. |
 | Heater       | Full-size, extra buildplate thermistor | Full-size, extra buildplate thermistor | Normal             | Normal ?         | Normal              | Fysetc has full-size listed in Ali, but not mentioned in BOM |
 | SSR | Omron | Omron | Omron | Omron | Delixi |  |
