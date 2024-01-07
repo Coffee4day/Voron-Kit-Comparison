@@ -21,16 +21,16 @@ Currently, there is only information available for the 2.4 kit. If you are inter
 | Fans         | LDO                                    | GDSTime                                | Random             | Random           | Random                |                                                              |
 | Wires | Pre-made,PTFE | Pre-made,PTFE | Pre-made,PTFE | Pre-made | Pre-made | |
 | Toolboard    | Hartk styled PCB and Breakout PCB      | Canbus EBB SB2209                      | No                 | Hartk styled PCB | Hartk styled PCB |                                                              |
-| Probe        | Omron + Klicky                         | Tap                                    | PL08N | Omron + Klicky？ | Omron + Klicky？ |                                                              |
+| Probe        | Omron + Klicky                         | Tap                                    | Tap | Omron + Klicky？ | Omron + Klicky？ |                                                              |
 | Hotend | E3D Revo Hotend | Dragon HF, optional others | E3D V6, optional others | E3D V6 | Dragon HF | |
 | Board | Bigtreetech Octopus | Bigtreetech M8P | Bigtreetech Octopus | FYSETC Spider | FYSETC Spider | |
 | Raspberry | - | CB1 | No | No | Orangepi Zero2 | |
-| Display | 4.3 Capacitive Display | Mini 12864 | Mini 12864 | Mini 12864 | Mini 12864 | |
+| Display | 4.3 Capacitive Display | Mini 12864 | 5" Touch Screen | Mini 12864 | Mini 12864 | |
 | Chamber Thermistor | Yes | Yes | No | No | No | |
 | Panels | Acrylic | PC+ABS | Acrylic+ACM | Acrylic | PC | |
-| Tool | Input shaper kit, insert tool, etc. | Insert tool | No | No | Yes | |
-| LED | Yes | Optional Disco Stick | No | No | No | |
-| Nevermore | Yes | Yes | No | Yes, with filter cotton | No | |
+| Tool | Input shaper kit, insert tool, etc. | Insert tool | Input shaping ADXL345 | No | Yes | |
+| LED | Yes | Optional Disco Stick | Yes | No | No | |
+| Nevermore | Yes | Yes | Yes | Yes, with filter cotton | No | |
 | Online Docs | Yes | Yes | No | Yes | No | |
 | | | | | | | |
 | Price (no shipping) | No official price | $699 | $839 | $916 | $819 | |
